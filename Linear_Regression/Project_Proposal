@@ -1,0 +1,19 @@
+Introduction:
+In this project, I will do web scraping for a Real estate data in Saudi Arabia and do a regression model to predict estate prices. Also, I will do exploratory data analysis for the data.
+
+Backstory:
+He has a real estate office and he wants me to predict the prices of houses and apartments in Saudi Arabia.
+
+Dataset:
+In this project, I will do web scraping for a Real estate data from this website https://www.bayut.sa/ 
+
+Algorithms:
+After I scraped data, I will do data cleaning, pre-processing and delete the duplicate records and check if there are any null values then drop them. After that I will do analysis and linear regression.
+Tools:
+I will use kaggle, Excel, sqlalchemy, Numpy and Pandas for data manipulation and Matplotlib and Seaborn for plotting, sklearn Linear Regression and RidgeCV.
+
+
+Conclusion:
+At the end, I will predict the estate prices in Saudi Arabia
+
+
