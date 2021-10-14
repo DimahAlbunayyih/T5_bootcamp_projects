@@ -1,1 +1,0 @@
-https://www.kaggle.com/tarfahahmedalabbad/riyadhrealestates-92fa73
